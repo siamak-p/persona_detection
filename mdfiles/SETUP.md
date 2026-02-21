@@ -231,7 +231,7 @@ Dashboard: **http://localhost:8501**
 | **Qdrant**           | http://localhost:6333          | Vector DB dashboard        |
 | **Phoenix**          | http://localhost:6006          | AI tracing UI              |
 | **Grafana**          | http://localhost:3000          | Metrics dashboards ⚠️ **WIP** |
-| **Prometheus**       | http://localhost:9091          | Metrics query              |
+| **Prometheus**       | http://localhost:9091          | Metrics query   ⚠️ **WIP**    |
 
 ---
 
