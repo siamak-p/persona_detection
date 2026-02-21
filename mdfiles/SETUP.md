@@ -63,7 +63,7 @@ This starts:
 | **PostgreSQL 16**      | 5432  | Relational database               |
 | **PostgreSQL Exporter**| 9187  | PostgreSQL metrics for Prometheus  |
 | **Phoenix**            | 6006  | AI/LLM trace visualization        |
-| **Prometheus**         | 9091  | Metrics collection                 |
+| **Prometheus**         | 9091  | Metrics collection  ⚠️ **WIP**    |
 | **Grafana**            | 3000  | Dashboards (admin/admin) ⚠️ **WIP** |
 
 Verify all services are running:
